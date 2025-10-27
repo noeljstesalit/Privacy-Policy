@@ -1,5 +1,5 @@
 
-"""# Privacy Policy for Vokabelly
+# Privacy Policy for Vokabelly
 
 **Effective Date:** [28-10-2025]
 
@@ -97,13 +97,8 @@ Updates will be posted in the app or on this page with a new effective date. Con
 ## 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 **Email:** [your@email.com]  
-🌐 **Website:** [yourwebsite.com]  
+📧 **Email:** [noeljabraham2023@gmail.com]  
 
----
-
-**Vokabelly – Learn German easily, safely, and confidently.**
-"""
 
 # Save as Markdown file
 path = Path("/mnt/data/Vokabelly_Privacy_Policy.md")
