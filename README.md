@@ -62,10 +62,3 @@ Updates will be posted in the app or on this page with a new effective date. Con
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 📧 **Email:** [noeljabraham2023@gmail.com]  
-
-
-# Save as Markdown file
-path = Path("/mnt/data/Vokabelly_Privacy_Policy.md")
-path.write_text(privacy_policy_md)
-
-path
