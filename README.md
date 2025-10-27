@@ -1,9 +1,7 @@
-from pathlib import Path
 
-# Define the markdown content
-privacy_policy_md = """# Privacy Policy for Vokabelly
+"""# Privacy Policy for Vokabelly
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [28-10-2025]
 
 Welcome to **Vokabelly**!  
 Your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application **Vokabelly** (“App”, “we”, “our”, or “us”).
