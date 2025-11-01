@@ -42,7 +42,7 @@ Depending on your region (e.g., EU/EEA under GDPR), you may have the right to:
 - Correct or update your data  
 - Request deletion of your data  
 
-To exercise these rights, please contact us at **[noeljabraham2023@gmail.com] **.
+To exercise these rights, please contact us at **[app.noelcore@gmail.com] **.
 
 ---
 
@@ -61,4 +61,4 @@ Updates will be posted in the app or on this page with a new effective date. Con
 ## 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 **Email:** [noeljabraham2023@gmail.com]  
+📧 **Email:** [app.noelcore@gmail.com]  
